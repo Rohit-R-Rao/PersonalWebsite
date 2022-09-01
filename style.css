@@ -136,6 +136,9 @@ nav img{
     box-sizing: border-box;
 }
 
+.hob_col img{
+    width: 300px;
+}
 .nocolorhob_col{
     flex-basis: 46%;
     border-radius: 10px;
